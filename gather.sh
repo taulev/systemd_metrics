@@ -5,6 +5,7 @@
 patterns=(
 "telegraf*"
 "influx*"
+"test"
 )
 
 echo ${patterns[@]}
