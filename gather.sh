@@ -140,4 +140,5 @@ parse_raw_data() {
 
 parse_raw_data $1
 mv -f "$METRIC_OUTPUT_FILE".tmp "$METRIC_OUTPUT_FILE"
+chmod 755 "$METRIC_OUTPUT_FILE"
 
