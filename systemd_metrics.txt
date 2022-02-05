@@ -1,0 +1,2 @@
+systemd_units,host=tl000man.com,name=telegraf.service,load=loaded,active=active,sub=running load_code=1,active_code=0,sub_code=5
+systemd_units,host=tl000man.com,name=influxdb.service,load=loaded,active=active,sub=running load_code=1,active_code=0,sub_code=5
